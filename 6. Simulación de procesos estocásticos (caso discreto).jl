@@ -1,4 +1,4 @@
-### Módulo 5: Simulación y visualización de procesos estocásticos en Julia (caso discreto).
+### Módulo 6: Simulación y visualización de procesos estocásticos en Julia (caso discreto).
 ## Autor: Act. Enrique Lecuona Sierra
 ## Curso: Simulación y Visualización de datos en Julia.
 
@@ -41,3 +41,4 @@ dir = "D:\\Escritorio\\Enrique Lecuona\\Clases\\Cursos de Programación\\Simulac
 # 3) Caso Practico: Camina Aleatoria.
 
 ####################################################################################################################################################
+
