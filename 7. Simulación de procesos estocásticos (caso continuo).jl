@@ -1,4 +1,4 @@
-### Módulo 5: Simulación y visualización de procesos estocásticos en Julia (caso continuo).
+### Módulo 7: Simulación y visualización de procesos estocásticos en Julia (caso continuo).
 ## Autor: Act. Enrique Lecuona Sierra
 ## Curso: Simulación y Visualización de datos en Julia.
 
@@ -41,6 +41,7 @@ dir = "D:\\Escritorio\\Enrique Lecuona\\Clases\\Cursos de Programación\\Simulac
 # 3) Caso Practico: Valuación de Opciones Europeas utilizando el modelo de Black-Scholes-Merton.
 
 ####################################################################################################################################################
+
 
 
 
